@@ -1,5 +1,4 @@
-package com.cdac.collections.bean;
-#https://github.com/pavanimunikoti/java.gitD:\java\Collections\src\com\cdac\collections\bean
+package com.cdac.collections.bean
 public class Student implements Comparable<Student>,Cloneable{
 	
 	private int rollNo;
